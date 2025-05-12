@@ -1,15 +1,22 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float1 3.1s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    top: 35%
+    right: 79%
+    width: 85px
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 20%
+    right: 11%
+    width: 85px
+  &-3
+    animation: float1 3.7s ease-in-out infinite alternate
+    position: absolute
+    top: 60%
+    right: 15%
+    width: 85px
 @keyframes float1
   0%
     transform: translateY(20px)
@@ -20,11 +27,125 @@
 .banner-principal .tarjeta
   background-position: left 50% !important
 .banner-principal__row .banner-principal__img
-  width: 400px !important  
+  width: 450px !important  
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: white !important   
 .banner-interno__titulo__icono i
   color: $color-primario
 figcaption
   font-weight: normal
- 
+.glosario__letra-item__texto i
+  display: none
+
+
+.fa-lista
+  li
+    display: flex !important
+  li:before
+    position: relative
+    margin-right: 7px
+    font-size: 1.4rem 
+.lista-ul--color.color-primario li > i:first-of-type  
+  color: $color-primario
+.lista-ul--color.color-secundario li > i:first-of-type  
+  color: $color-secundario       
+.lista-ol--cuadro.color-primario .lista-ol--cuadro__vineta
+  background-color: $color-primario
+.bg-color-acento-contenido
+  background-color: $color-acento-contenido
+.w-fit
+  width: fit-content
+.back-filter
+  backdrop-filter: blur(10px)
+  background-color: #ffffff1f
+  &--t1
+    height: 95%
+    align-items: center
+    display: flex
+
+.bgc-1
+  background-image: url('../assets/curso/temas/intro/bgc.png')
+  background-position: top
+  background-size: 100%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    margin-inline: -1.4rem  
+    background-size: cover 
+.bg-1
+  background-image: url('../assets/curso/temas/t1/bg1.png')
+  background-position: top
+  background-size: cover
+  background-repeat: no-repeat
+.bg-2
+  background-image: url('../assets/curso/temas/t1/bg2.png')
+  background-position: top
+  background-size: cover
+  background-repeat: no-repeat
+.bg1
+  background-color: #C6E5E6
+.bg2
+  background-color: #EEF3EA
+.bg3
+  background-color: #E2F2F3
+.bg4
+  background-color: #FFF5E2
+
+.lin-decor
+  height: 6px
+  width: 42px
+  background-color: #2E4E1C
+
+.subt
+  display: flex
+  position: relative
+  align-items: center
+  width: fit-content
+  padding-right: 10px 
+  img
+    width: 60px
+    z-index: 999
+  h3 
+    color: #fff
+    width: fit-content
+    padding: 2px 15px
+    z-index: 999
+  &::before
+    content: ''
+    position: absolute
+    width: 100%
+    height: 75%
+    background-color: $color-acento-contenido
+    border-radius: 50px
+    z-index: 0
+
+.bg3.acordion__activo
+  background-color: #B8CCAB
+.bg-tarj-t1
+  background-color: #DAF2E4
+  background-image: url('../assets/curso/temas/t1/bg-tarj.png')
+  background-repeat: no-repeat
+  background-size: cover
+  cursor: inherit
+  &:hover
+    background-color: #C6E5E6 !important
+    
+.t1-cont
+  z-index: 999
+.t1-bloque    
+  position: relative
+  img, p
+    z-index: 999
+  &::before
+    content: ''
+    position: absolute
+    background-color: #E2F2F3
+    width: 50%
+    height: 100%
+    right: -30%
+    z-index: 0
+    @media (max-width: $bp-max-xs)
+      display: none
