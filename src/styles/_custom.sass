@@ -55,6 +55,10 @@ figcaption
   background-color: $color-acento-contenido
 .w-fit
   width: fit-content
+.br-10
+  border-radius: 10px
+.br-50
+  border-radius: 50px
 .back-filter
   backdrop-filter: blur(10px)
   background-color: #ffffff1f
@@ -62,11 +66,26 @@ figcaption
     height: 95%
     align-items: center
     display: flex
+.z-999
+  z-index: 999
+
 
 .bgc-1
   background-image: url('../assets/curso/temas/intro/bgc.png')
   background-position: top
   background-size: 100%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    margin-inline: -1.4rem  
+    background-size: cover 
+.bgc-2
+  background-image: url('../assets/curso/temas/t2/bgc.png')
+  background-position: center
+  background-size: cover
   background-repeat: no-repeat
   margin-inline: -3.4rem
   @media screen and (max-width: 992px)
@@ -93,6 +112,14 @@ figcaption
   background-color: #E2F2F3
 .bg4
   background-color: #FFF5E2
+.bg5
+  background-color:#9FC2B5
+.bg6
+  background-color:#EFFAF4
+.bg7
+  background-color:#5A999B
+.bg8
+  background-color: #DAF2E4
 
 .lin-decor
   height: 6px
@@ -132,7 +159,28 @@ figcaption
   cursor: inherit
   &:hover
     background-color: #C6E5E6 !important
-    
+.circl-arrow .slyder-f__btn i
+  font-size: 1.2rem
+  background-color: $color-acento-botones
+  color: $white
+  height: 46px
+  width: 46px
+  padding: 5px
+  border-radius: 500px
+  display: flex
+  justify-content: center
+  align-items: center    
+.tabs-a
+  .row .col-lg-4.col-xl-3 .row .col-sm-6.col-lg-12.mb-3
+    margin-bottom: 0.3rem !important
+  &__tab
+    background-color: #0F6646
+    color: #FFF
+    white-space: normal
+    &__text
+      overflow: inherit
+      text-overflow: inherit
+
 .t1-cont
   z-index: 999
 .t1-bloque    
@@ -149,3 +197,77 @@ figcaption
     z-index: 0
     @media (max-width: $bp-max-xs)
       display: none
+.borde-t2
+  border: 1px solid #EAEBED
+.t3
+  .tarjeta.color-primario
+    position: relative
+    &::before
+      content: ''
+      position: absolute
+      width: 80px
+      height: 80px
+      background-image: url('../assets/curso/temas/t3/adorn1.svg')
+      background-size: contain
+      background-repeat: no-repeat
+      top: 20px
+      right: 20px
+      z-index: 0
+  .tarjeta.color-secundario
+    position: relative
+    &::before
+      content: ''
+      position: absolute
+      width: 80px
+      height: 80px
+      background-image: url('../assets/curso/temas/t3/adorn2.svg')
+      background-size: contain
+      background-repeat: no-repeat
+      top: 20px
+      right: 20px
+      z-index: 0
+  &--1
+    position: relative
+    &::before
+      content: ''
+      position: absolute
+      width: 62px
+      height: 60px
+      background-image: url('../assets/curso/temas/t3/adorn3.svg')
+      background-size: contain
+      background-repeat: no-repeat
+      top: -20px
+      right: -20px
+      @media (max-width: $bp-max-md)
+        width: 52px
+        height: 50px
+
+/* Tema 2 */      
+.cursor-pointer.crd_hover_txt
+  cursor: pointer
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  border-radius: 20px
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+      padding: 1.5rem !important
+      background-color: #B8CCAB
+      h4
+        color: $color-sistema-texto
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: #4D812E
+    h4
+      color: #FFF
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em
