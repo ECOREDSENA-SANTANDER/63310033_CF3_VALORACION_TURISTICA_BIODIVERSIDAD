@@ -32,7 +32,7 @@
   color: white !important   
 .banner-interno__titulo__icono i
   color: $color-primario
-figcaption
+figcaption, table caption
   font-weight: normal
 .glosario__letra-item__texto i
   display: none
@@ -140,6 +140,8 @@ figcaption
     width: fit-content
     padding: 2px 15px
     z-index: 999
+    @media (max-width: $bp-max-xs)
+      font-size: 19px
   &::before
     content: ''
     position: absolute
@@ -148,6 +150,8 @@ figcaption
     background-color: $color-acento-contenido
     border-radius: 50px
     z-index: 0
+    @media (max-width: $bp-max-xs)
+      height: 90%
 
 .bg3.acordion__activo
   background-color: #B8CCAB
@@ -180,6 +184,14 @@ figcaption
     &__text
       overflow: inherit
       text-overflow: inherit
+.tabla-a.color-acento-contenido thead
+  border-color: #FFF
+  background-color: #CFE0DA
+  th
+    text-align: left
+.tabla-a table thead:nth-child(2)
+  border-color: #0F6646 !important
+
 
 .t1-cont
   z-index: 999
@@ -241,6 +253,30 @@ figcaption
       @media (max-width: $bp-max-md)
         width: 52px
         height: 50px
+  &--tarjetas
+      .tarj1, .tarj2, .tarj3
+        position: relative
+        border-bottom: 10px solid 
+        &::before
+          content: ''
+          position: absolute
+          width: 41px
+          height: 35px
+          background-image: url('../assets/curso/temas/t3/adorn4.svg')
+          background-size: contain
+          background-repeat: no-repeat
+          bottom: 0px
+          right: 10px
+      .tarj1
+        background-color: #C6E5E6
+        border-color: #70BFC2
+      .tarj2
+        background-color: #CFE0DA
+        border-color: #0C5238
+      .tarj3
+        background-color: #DAF2E4
+        border-color: #77AF8F
+
 
 /* Tema 2 */      
 .cursor-pointer.crd_hover_txt

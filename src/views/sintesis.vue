@@ -7,7 +7,7 @@
 
     .row.justify-content-center
       .col-lg-12.mb-5
-        .tarjeta.tarjeta--gris.p-4.p-lg-5
+        .tarjeta.tarjeta--gris.p-1.p-md-3.p-lg-5
           figure
             img(src="@/assets/curso/sintesis.svg", alt="Se presenta como síntesis la relación entre turismo, naturaleza y sostenibilidad, organizada en cuatro bloques. El primero aborda la valoración y gestión, destacando conceptos como biodiversidad, turismo sostenible y áreas protegidas. El segundo se centra en los impactos y su gestión, incluyendo aspectos económicos, socioculturales, ambientales y servicios ecosistémicos. El tercero identifica factores de amenaza como el cambio en el uso del suelo, invasiones biológicas y contaminación del agua. El cuarto describe los motores de transformación y pérdida de biodiversidad, estructurados en cinco categorías principales.")
       .col-auto
