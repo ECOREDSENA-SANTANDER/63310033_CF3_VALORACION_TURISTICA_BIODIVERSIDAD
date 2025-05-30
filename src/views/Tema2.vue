@@ -286,7 +286,7 @@
                 img(src='@/assets/curso/temas/t2/tarj3-ico4.svg', alt='')
             .tarjeta.bg-white.m-auto.w-fit.mb-3.px-3.py-2.mx-lg-4    
               h4.mb-0 Pérdida del paisaje natural por la construcción desmedida
-            p.mb-0 El turismo masivo puede generar contaminación visual y auditiva, así como un aumento en la generación de desechos, lo que afecta la calidad del entorno.
+            p.mb-0 El crecimiento de la infraestructura turística, como hoteles y resorts, puede alterar el paisaje natural y generar un impacto negativo en la belleza del entorno.
         .col-lg-4.col-md-6.col-10.mb-4
           .tarjeta--boton.color-secundario.text-center.bg-tarj-t1.p-3.h-100
             .row.justify-content-center.mb-3.mb-lg-4

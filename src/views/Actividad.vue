@@ -20,7 +20,7 @@ export default {
       tema: 'Relación turismo y biodiversidad sostenible',
       titulo: 'Cuestionario',
       introduccion:
-        '<b>Objetivo:</b> Reconocer conceptos clave sobre la relación entre turismo, biodiversidad y sostenibilidad a partir de afirmaciones de verdadero o falso.',
+        '<b>Objetivo:</b> reconocer conceptos clave sobre la relación entre turismo, biodiversidad y sostenibilidad a partir de afirmaciones de verdadero o falso.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!..',
       titulo_reprobado: 'VUELVA A INTENTARLO..',

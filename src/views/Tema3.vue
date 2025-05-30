@@ -52,7 +52,7 @@
             .col-lg-2.col-md-2.d-none.d-md-block
               img.px-lg-2(src='@/assets/curso/temas/t3/adorn2.svg', alt='')
             .col-lg-10.col-md-10
-              h5.mb-0 La biodiversidad colombiana es una de las más ricas y diversas del mundo, lo que le ha valido el reconocimiento como país megadiverso. Sin embargo, esta biodiversidad está siendo amenazada por varios motores de pérdida, que son factores que afectan directamente a los ecosistemas y sus servicios, con consecuencias profundas tanto para la naturaleza como para los seres humanos.
+              P.mb-0 La biodiversidad colombiana es una de las más ricas y diversas del mundo, lo que le ha valido el reconocimiento como país megadiverso. Sin embargo, esta biodiversidad está siendo amenazada por varios motores de pérdida, que son factores que afectan directamente a los ecosistemas y sus servicios, con consecuencias profundas tanto para la naturaleza como para los seres humanos.
 
 
       .subt.mb-4(data-aos="fade-right")
@@ -135,7 +135,7 @@
             .col-lg-2.col-md-2.d-none.d-md-block
               img.px-lg-2(src='@/assets/curso/temas/t3/adorn2.svg', alt='')
             .col-lg-10.col-md-10
-              h5.mb-0 Por ejemplo, el aumento de las temperaturas podría alterar la dinámica de los ecosistemas en áreas como los bosques de niebla en la región Andina, que son cruciales para la regulación hídrica y la conservación de especies. 
+              p.mb-0 #[strong Por ejemplo], el aumento de las temperaturas podría alterar la dinámica de los ecosistemas en áreas como los #[strong bosques de niebla] en la región Andina, que son cruciales para la regulación hídrica y la conservación de especies. 
 
       p.mb-4 El cambio climático también podría modificar las temporadas de lluvias y sequías, afectando la disponibilidad de recursos hídricos y alterando los patrones migratorios de las especies animales, que dependen de la estabilidad de estos ecosistemas para su alimentación y reproducción.
         
@@ -145,7 +145,7 @@
             .col-lg-2.col-md-2.d-none.d-md-block
               img.px-lg-2(src='@/assets/curso/temas/t3/adorn2.svg', alt='')
             .col-lg-10.col-md-10
-              h5.mb-0 En las zonas costeras, el aumento del nivel del mar podría afectar gravemente a los ecosistemas marinos, como los corales y las playas. Las especies marinas que dependen de estos hábitats podrían verse desplazadas, y los ecosistemas de manglares y marismas podrían perder su capacidad para proteger las costas de la erosión y las tormentas.
+              p.mb-0 En las #[strong zonas costeras], el aumento del nivel del mar podría afectar gravemente a los ecosistemas marinos, como los #[strong corales] y las #[strong playas]. Las especies marinas que dependen de estos hábitats podrían verse desplazadas, y los ecosistemas de manglares y marismas podrían perder su capacidad para proteger las costas de la erosión y las tormentas.
 
       .bg4.p-4.mb-4(data-aos="fade")
         .row.justify-content-center.align-items-center
@@ -185,7 +185,7 @@
             .col-lg-2.col-md-2.d-none.d-md-block
               img.px-lg-2(src='@/assets/curso/temas/t3/adorn2.svg', alt='')
             .col-lg-10.col-md-10
-              h5.mb-0 La investigación y monitoreo constante serán esenciales para comprender mejor los impactos del cambio climático en la biodiversidad colombiana y para tomar decisiones informadas que permitan la conservación de los ecosistemas a largo plazo.
+              p.mb-0 La #[strong investigación y monitoreo] constante serán esenciales para comprender mejor los impactos del cambio climático en la biodiversidad colombiana y para tomar decisiones informadas que permitan #[strong la conservación de los ecosistemas] a largo plazo.
 
       .row.justify-content-center(data-aos="fade")
         .col-lg-10
@@ -197,7 +197,7 @@
               caption Fuente: Ministerio de Ambiente y Desarrollo Sostenible. https://www.minambiente.gov.co/, (2017)
               thead
                 tr
-                  th MOTOR 1: cambio en el uso del suelo
+                  th Motor 1: cambio en el uso del suelo
               tbody
                 tr
                   td 
@@ -213,7 +213,7 @@
                         span.mb-0 Infraestructura.
               thead
                 tr
-                  th MOTOR 2: disminución, pérdida o degradación de los elementos de los sistemas nativos
+                  th Motor 2: disminución, pérdida o degradación de los elementos de los sistemas nativos
               tbody
                 tr
                   td 
@@ -235,13 +235,13 @@
                         span.mb-0 Sobreexplotación de la pesca.
               thead
                 tr
-                  th MOTOR 3: invasiones biológicas
+                  th Motor 3: invasiones biológicas
               thead
                 tr
-                  th MOTOR 4: contaminación tóxica del agua
+                  th Motor 4: contaminación tóxica del agua
               thead
                 tr
-                  th MOTOR 5: cambio climático
+                  th Motor 5: cambio climático
 
 
 

@@ -44,7 +44,7 @@
                 img(src='@/assets/curso/temas/t1/acord2.png', alt='')
             .row.justify-content-center(titulo="Turismo de diversión")
               .col-lg-7.col-md-7.col-11.mb-3.mb-md-0
-                p.mb-0 Su propósito principal es el relax, el descanso y el esparcimiento. Es un turismo de disfrute pasivo o recreativo sin necesidad de enfrentar desafíos físicos ni riesgos. Ejemplos típicos son viajes a playas, resorts, parques temáticos o cruceros. No necesariamente se asocia a la aventura ni a entornos naturales exigentes. 
+                p.mb-0 Su propósito principal es el #[em relax], el descanso y el esparcimiento. Es un turismo de disfrute pasivo o recreativo sin necesidad de enfrentar desafíos físicos ni riesgos. Ejemplos típicos son viajes a playas, resorts, parques temáticos o cruceros. No necesariamente se asocia a la aventura ni a entornos naturales exigentes. 
               .col-lg-4.col-md-4.col-8
                 img(src='@/assets/curso/temas/t1/acord3.png', alt='')
             .row.justify-content-center(titulo="Turismo de salud")
@@ -101,7 +101,7 @@
                   .col-lg-2.col-md-4.col-4.t1-cont
                     img(src='@/assets/curso/temas/t1/6.svg', alt='')
                   .col-lg-10.col-md-8.col-8.t1-cont
-                    p.mb-0 #[strong Nota:] existen tipos específicos de turismo de naturaleza 
+                    p.mb-0 #[strong Nota:] existen tipos específicos de turismo de naturaleza.
               .col-lg-4.col-md-5.d-none.d-md-block.t1-cont
                 img(src='@/assets/curso/temas/t1/5.svg', alt='')
 

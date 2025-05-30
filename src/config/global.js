@@ -126,7 +126,7 @@ export default {
     {
       tema: 'Turismo y sus actividades',
       referencia:
-        'Trochando, R. (2016, 19 agosto). Campesinos e indígenas exigen cierre del turismo al nevado del Cocuy - Trochando Sin Fronteras. Trochando Sin Fronteras.',
+        'Trochando, R. (2016, 19 agosto). Campesinos e indígenas exigen cierre del turismo al nevado del Cocuy - Trochando Sin Fronteras.',
       tipo: 'Página Web',
       link:
         'https://trochandosinfronteras.info/campesinos-e-indigenas-exigen-cierre-del-turismo-al-nevado-del-cocuy/',
@@ -134,7 +134,7 @@ export default {
     {
       tema: 'Turismo y sus actividades',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2024, 21 octubre). El turismo rural en Colombia',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2024, 21 octubre). El turismo rural en Colombia.',
       tipo: 'Video',
       link: 'https://youtu.be/YIpnqZRTYZU',
     },
@@ -143,7 +143,7 @@ export default {
     {
       termino: 'Áreas protegidas',
       significado:
-        'son terrenos o aguas designados para preservar la biodiversidad y los recursos naturales y culturales, gestionados legalmente u otros medios eficaces. su propósito es proteger la diversidad biológica (uicn, 1992).',
+        'son terrenos o aguas designados para preservar la biodiversidad y los recursos naturales y culturales, gestionados legalmente u otros medios eficaces. su propósito es proteger la diversidad biológica (UICN, 1992).',
     },
     {
       termino: 'Cambio climático',
@@ -178,7 +178,7 @@ export default {
     {
       termino: 'Recurso biológico',
       significado:
-        'son organismos, partes de organismos o componentes bióticos que tienen un valor o utilidad real o potencial, incluidos sus productos derivados (decisión andina 391).',
+        'son organismos, partes de organismos o componentes bióticos que tienen un valor o utilidad real o potencial, incluidos sus productos derivados (Decisión Andina 391).',
     },
     {
       termino: 'Recurso genético',
@@ -213,7 +213,7 @@ export default {
 
     {
       referencia:
-        'Organización MundiaL del Turismo OMT. (2016). La OMT subraya en la COP13 el potencial del Turismo para conservar la Biodiversidad.',
+        'Organización Mundial del Turismo OMT. (2016). La OMT subraya en la COP13 el potencial del Turismo para conservar la Biodiversidad.',
     },
 
     {
