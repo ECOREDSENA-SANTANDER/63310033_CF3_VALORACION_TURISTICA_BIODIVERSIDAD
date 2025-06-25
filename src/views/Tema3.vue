@@ -161,21 +161,21 @@
               .col-lg-3.col-md-3.col-3
                 img(src='@/assets/curso/temas/t3/ico1.svg', alt='')
               .col-lg-9.col-md-9.col-8
-                h5.mb-0 La deforestación.
+                h5.mb-0 La deforestación
         .col-lg-4.col-md-6.mb-3
           .tarj2.p-2
             .row.align-items-center
               .col-lg-3.col-md-3.col-3
                 img(src='@/assets/curso/temas/t3/ico2.svg', alt='')
               .col-lg-9.col-md-9.col-8
-                h5.mb-0 La sobreexplotación.
+                h5.mb-0 La sobreexplotación
         .col-lg-4.col-md-6.mb-3
           .tarj3.p-2
             .row.align-items-center
               .col-lg-3.col-md-3.col-3
                 img(src='@/assets/curso/temas/t3/ico3.svg', alt='')
               .col-lg-9.col-md-9.col-8
-                h5.mb-0 La contaminación. 
+                h5.mb-0 La contaminación
 
       p.mb-4 Las políticas y estrategias de conservación deberán adaptarse a este nuevo contexto, implementando medidas para mitigar los efectos del cambio climático, promover la resiliencia de los ecosistemas y proteger las especies más vulnerables. 
 
@@ -204,13 +204,13 @@
                     ul.lista-ul--color.fa-lista.mb-0
                       li
                         i.fas.fa-leaf
-                        span.mb-0 Ganadería.
+                        span.mb-0 Ganadería
                       li
                         i.fas.fa-leaf
-                        span.mb-0 Cultivo de uso ilícito.
+                        span.mb-0 Cultivo de uso ilícito
                       li.mb-0
                         i.fas.fa-leaf
-                        span.mb-0 Infraestructura.
+                        span.mb-0 Infraestructura
               thead
                 tr
                   th Motor 2: disminución, pérdida o degradación de los elementos de los sistemas nativos
@@ -220,19 +220,19 @@
                     ul.lista-ul--color.fa-lista.mb-0
                       li
                         i.fas.fa-leaf
-                        span.mb-0 Agroindustria.
+                        span.mb-0 Agroindustria
                       li
                         i.fas.fa-leaf
-                        span.mb-0 Minería.
+                        span.mb-0 Minería
                       li
                         i.fas.fa-leaf
-                        span.mb-0 Generación eléctrica.
+                        span.mb-0 Generación eléctrica
                       li
                         i.fas.fa-leaf
-                        span.mb-0 Urbanización.
+                        span.mb-0 Urbanización
                       li
                         i.fas.fa-leaf
-                        span.mb-0 Sobreexplotación de la pesca.
+                        span.mb-0 Sobreexplotación de la pesca
               thead
                 tr
                   th Motor 3: invasiones biológicas
