@@ -66,7 +66,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Capacidad de Carga',
+        titulo: 'Capacidad de carga',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -143,7 +143,7 @@ export default {
     {
       termino: 'Áreas protegidas',
       significado:
-        'son terrenos o aguas designados para preservar la biodiversidad y los recursos naturales y culturales, gestionados legalmente u otros medios eficaces. su propósito es proteger la diversidad biológica (UICN, 1992).',
+        'son terrenos o aguas designados para preservar la biodiversidad y los recursos naturales y culturales, gestionados legalmente u otros medios eficaces. Su propósito es proteger la diversidad biológica (UICN, 1992).',
     },
     {
       termino: 'Cambio climático',
@@ -163,7 +163,7 @@ export default {
     {
       termino: 'Enfoque ecosistémico',
       significado:
-        'estrategia para gestionar los recursos naturales de manera integrada, promoviendo la conservación y el uso sostenible. se basa en el estudio científico de los ecosistemas, considerando las interacciones biológicas y el impacto humano en ellos.',
+        'estrategia para gestionar los recursos naturales de manera integrada, promoviendo la conservación y el uso sostenible. Se basa en el estudio científico de los ecosistemas, considerando las interacciones biológicas y el impacto humano en ellos.',
     },
     {
       termino: 'Gestión integral de biodiversidad',
@@ -218,7 +218,7 @@ export default {
 
     {
       referencia:
-        'Organización Mundial del Turismo OMT. (sf). Código Mundial de Ética para el Turismo.',
+        'Organización Mundial del Turismo OMT. (s.f.). Código Mundial de Ética para el Turismo.',
     },
 
     {
@@ -265,7 +265,7 @@ export default {
         },
         {
           nombre: 'Sandra Paola Morales Páez',
-          cargo: 'Evaluadora Instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -294,13 +294,13 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Laura Paola Gelvez Manosalva',
+          nombre: 'Evaluadora instruccional',
           cargo: 'Validadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Erika Fernanda Mejía Pinzón',
-          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],

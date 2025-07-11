@@ -66,7 +66,7 @@
               .col-lg-2.col-md-2.d-none.d-md-block
                 img(src='@/assets/curso/temas/t3/adorn2.svg', alt='')
               .col-lg-10.col-md-10
-                p.mb-0 Uno de los principales motores de cambio en el uso del suelo en Colombia es la expansión de la ganadería, que ha llevado a la deforestación de grandes extensiones de bosques nativos, especialmente en los bosques secos, los bosques andinos y las selvas tropicales húmedas. La región amazónica y el pacífico han sido especialmente vulnerables, con una deforestación alarmante en las últimas décadas. El cambio en el uso del suelo tiene impactos devastadores sobre la biodiversidad, ya que destruye hábitats naturales y reduce las áreas de refugio para especies nativas.
+                p.mb-0 Uno de los principales motores de cambio en el uso del suelo en Colombia es la expansión de la ganadería, que ha llevado a la deforestación de grandes extensiones de bosques nativos, especialmente en los bosques secos, los bosques andinos y las selvas tropicales húmedas. La región Amazónica y el Pacífico han sido especialmente vulnerables, con una deforestación alarmante en las últimas décadas. El cambio en el uso del suelo tiene impactos devastadores sobre la biodiversidad, ya que destruye hábitats naturales y reduce las áreas de refugio para especies nativas.
         .col-lg-4.col-md-8(data-aos="fade-left")
          img(src='@/assets/curso/temas/t3/4.png', alt='')
 
@@ -194,7 +194,7 @@
             span Motores del turismo
           .tabla-a.color-acento-contenido
             table
-              caption Fuente: Ministerio de Ambiente y Desarrollo Sostenible. https://www.minambiente.gov.co/, (2017)
+              caption Fuente: Ministerio de Ambiente y Desarrollo Sostenible, (2017)
               thead
                 tr
                   th Motor 1: cambio en el uso del suelo

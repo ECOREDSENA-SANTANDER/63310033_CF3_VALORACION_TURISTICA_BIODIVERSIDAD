@@ -72,7 +72,7 @@
               span.mb-0 #[strong Aumento de los costos de vida y de la tierra:] la llegada de turistas puede generar un incremento en el costo de vida local, lo que afecta a los residentes permanentes, especialmente en términos de vivienda y servicios.
             li
               i.fas.fa-leaf
-              span.mb-0 #[strong Transformación hacia una mono economía:] el turismo puede llevar a una excesiva dependencia de este sector, lo que podría hacer que el destino se vuelva vulnerable a cambios en la demanda turística y pierda diversificación económica.
+              span.mb-0 #[strong Transformación hacia una monoeconomía:] el turismo puede llevar a una excesiva dependencia de este sector, lo que podría hacer que el destino se vuelva vulnerable a cambios en la demanda turística y pierda diversificación económica.
             li
               i.fas.fa-leaf
               span.mb-0 #[strong Aumento del trabajo informal con bajos ingresos:] aunque el turismo genera empleo, también puede incentivar la informalidad laboral, donde los trabajadores no cuentan con las condiciones adecuadas de remuneración o seguridad social.
