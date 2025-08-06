@@ -198,7 +198,7 @@
         h2 2.3 Impactos ambientales
 
       p Los impactos ambientales son modificaciones en el entorno causadas por la acción humana o por procesos naturales, mientras que los cambios impulsados por la naturaleza son inevitables, los impactos causados por actividades humanas, como el turismo, pueden ser prevenidos o mitigados. Por tanto, la política ambiental se ha enfocado en la creación de instrumentos y estrategias para reducir los daños al medio ambiente.
-      p.mb-5 En las áreas naturales donde se desarrollan actividades turísticas, es esencial tomar medidas estrictas para proteger los ecosistemas; aunque la educación ambiental durante las visitas es importante, un aumento excesivo en el número de turistas puede llevar a la degradación de estos espacios naturales. Este riesgo es destinos de sol y playa.
+      p.mb-5 En las áreas naturales donde se desarrollan actividades turísticas, es esencial tomar medidas estrictas para proteger los ecosistemas; aunque la educación ambiental durante las visitas es importante, un aumento excesivo en el número de turistas puede llevar a la degradación de estos espacios naturales. Este riesgo es igualmente aplicable en destinos de sol y playa. 
       
       .bg5.w-fit.br-50.mb-4(data-aos="fade-right")
         h3.mb-0.px-3.py-1 Impactos positivos

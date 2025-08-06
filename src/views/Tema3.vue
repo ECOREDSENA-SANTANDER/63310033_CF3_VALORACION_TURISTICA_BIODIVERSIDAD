@@ -193,7 +193,7 @@
             h5 Tabla 1.
             span Motores del turismo
           .tabla-a.color-acento-contenido
-            table
+            table(alt="La tabla organiza los principales motores que impactan el turismo, agrupados en cinco categorías. El primero es el cambio en el uso del suelo, relacionado con actividades como ganadería, cultivos ilícitos e infraestructura. El segundo aborda la disminución, pérdida o degradación de los sistemas nativos debido a factores como agroindustria, minería, generación eléctrica, urbanización y sobreexplotación de la pesca. El tercer motor se refiere a las invasiones biológicas, el cuarto a la contaminación tóxica del agua, y el quinto al cambio climático. ")
               caption Fuente: Ministerio de Ambiente y Desarrollo Sostenible, (2017)
               thead
                 tr
